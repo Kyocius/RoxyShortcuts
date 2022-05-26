@@ -9,22 +9,27 @@ Roxy Shortcuts helps you to create App shortcuts on Windows 11 Start menu more c
 ## Features
 
 - **Fluent Design**: Thanks to WPF UI, Roxy gets the latest Fluent Design appearance with Mica effect.
+- **Dark/Light Mode**: The theme will change automatically along with system.
 - **Easy to use**: Maybe.
 
-### Prerequisite
+## Prerequisite
 
 - Windows 11
 - .NET 6.0 Runtime
 
 ## Showcase
 
-//TODO
+![Demo](./Screenshots/demo.png)
 
 ## Special Thanks
 
-- [WPF UI]()
-- [JetBrains ReSharper]()
-- [JetBrains Rider]()
+- [WPF UI](https://github.com/lepoco/wpfui)
+- [JetBrains ReSharper](https://www.jetbrains.com/resharper/)
+- [JetBrains Rider](https://www.jetbrains.com/rider/)
+
+## License
+Under AGPL v3.0
+
 
 
 
