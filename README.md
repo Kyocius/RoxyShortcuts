@@ -4,7 +4,7 @@
 
 Roxy Shortcuts helps you to create App shortcuts on Windows 11 Start menu more convenient and comfortable. No need to add shortcuts one by one torturously!
 
-*Roxy* is named after the Japanese light novel [*Mushoku Tensei*]([無職轉生～到了異世界就拿出真本事～ - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.m.wikipedia.org/zh/無職轉生～到了異世界就拿出真本事～)). 
+*Roxy* is named after the Japanese light novel [*Mushoku Tensei*](https://en.wikipedia.org/wiki/Mushoku_Tensei)
 
 ## Features
 
