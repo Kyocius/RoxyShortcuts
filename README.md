@@ -2,7 +2,7 @@
 
 # Roxy Shortcuts
 
-Roxy helps you to create App shortcuts on Windows 11 Start menu more comfortablely. No need to add shortcuts one by one torturously!
+Roxy helps you to create shortcuts of executable(.exe) files on Windows 11 Start menu more comfortably. No need to add shortcuts one by one torturously!
 
 *Roxy* is named after the Japanese light novel [*Mushoku Tensei*](https://en.wikipedia.org/wiki/Mushoku_Tensei)
 
