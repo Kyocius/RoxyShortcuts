@@ -5,10 +5,10 @@
              StartupUri="MainWindow.xaml"
              xmlns:wpfui="http://schemas.lepo.co/wpfui/2022/xaml">
     <Application.Resources>
-         <ResourceDictionary>
-             <ResourceDictionary.MergedDictionaries>
-                 <wpfui:Resources Theme="Light" />
-             </ResourceDictionary.MergedDictionaries>
-         </ResourceDictionary>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <wpfui:Resources Theme="Light" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
